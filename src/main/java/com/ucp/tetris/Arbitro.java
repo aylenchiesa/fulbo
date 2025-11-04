@@ -1,6 +1,6 @@
 package com.ucp.tetris;
 
-public interface IRotar {
+public interface Arbitro {
     void rotateLeft();
     void rotateRight();
 }
