@@ -2,5 +2,12 @@
   "java.project.sourcePaths": ["src"],
   "java.project.referencedLibraries": ["lib/*/.jar"],
   "java.debug.settings.onBuildFailureProceed": true,
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-25",
+      "path": "C:\\Users\\aylen\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-25.0.9.9-hotspot",
+      "default": true
+    }
+  ]
 }
